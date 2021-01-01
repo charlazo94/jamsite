@@ -3,6 +3,8 @@ title: "Jocote Dog"
 date: 2020-12-31T18:23:22-06:00
 draft: true
 author: Carlos Angulo Leandro
+photoauthor: "Carlos Angulo Leandro"
+tags: ['photo', 'dog']
 ---
 
 # Jocote the dog
